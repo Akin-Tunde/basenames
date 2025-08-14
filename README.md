@@ -127,10 +127,4 @@ $ forge fmt
 $ forge snapshot
 ```
 
-### Help
 
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
